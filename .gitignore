@@ -116,6 +116,7 @@ pip-selfcheck.json
 # Ignore all local history of files
 .history
 .ionide
-test/
-test/*
-.test/
+.python_bigdata_esencial/data/2008.csv
+python_bigdata_esencial/data/2008.csv
+python_bigdata_esencial/data/
+
