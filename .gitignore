@@ -119,4 +119,8 @@ pip-selfcheck.json
 .python_bigdata_esencial/data/2008.csv
 python_bigdata_esencial/data/2008.csv
 python_bigdata_esencial/data/
-
+.analisis_datos_tesis
+.analisis_datos_tesis/*
+analisis_datos_tesis/*
+.analisis_datos_tesis/data/pretest.csv
+.analisis_datos_tesis/data/posttest.csv
