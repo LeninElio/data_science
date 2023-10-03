@@ -125,3 +125,6 @@ analisis_datos_tesis/*
 .analisis_datos_tesis/data/pretest.csv
 .analisis_datos_tesis/data/posttest.csv
 .duolingo/data/*
+.duolingo/data
+.test/data/*
+test/data
