@@ -1,6 +1,6 @@
 {
   "name": "@jupyter-notebook/lab-extension",
-  "version": "7.0.5",
+  "version": "7.0.6",
   "description": "Jupyter Notebook - Lab Extension",
   "homepage": "https://github.com/jupyter/notebook",
   "bugs": {
@@ -43,7 +43,7 @@
     "watch:src": "tsc -w"
   },
   "dependencies": {
-    "@jupyter-notebook/application": "^7.0.5",
+    "@jupyter-notebook/application": "^7.0.6",
     "@jupyterlab/application": "^4.0.7",
     "@jupyterlab/apputils": "^4.1.7",
     "@jupyterlab/coreutils": "^6.0.7",
@@ -67,7 +67,7 @@
     "outputDir": "../../notebook/labextension",
     "schemaDir": "schema",
     "_build": {
-      "load": "static/remoteEntry.58182cbb5c785b66277a.js",
+      "load": "static/remoteEntry.b2792fe643cae74ea824.js",
       "extension": "./extension",
       "style": "./style"
     }

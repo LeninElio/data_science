@@ -128,3 +128,5 @@ analisis_datos_tesis/*
 .duolingo/data
 .test/data/*
 test/data
+data_course/*
+python_machine_learning/data_course/*
